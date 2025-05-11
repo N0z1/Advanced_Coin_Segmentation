@@ -24,10 +24,6 @@ This project was developed as part of a university module to demonstrate practic
 - Google Colab
 - NumPy
 
-## 📁 Project Structure
-├── updated_coins_Project_V_13.ipynb # Main Colab notebook ├── images/ │ ├── sample_input.jpg │ └── demo_output.png ├── README.md
-
-
 ## 🚀 How to Run
 1. Open the Google Colab Notebook (`updated_coins_Project_V_13.ipynb`).
 2. Upload an image of UK coins on a flat surface.
