@@ -15,6 +15,7 @@ This project was developed as part of a university module to demonstrate practic
 
 ## 🧪 Example
 ![Detected Coins](https://github.com/user-attachments/assets/6eaec4ef-8e78-4edc-a73d-d4b425c0ea3d)
+![demo_output](https://github.com/user-attachments/assets/237915c2-d0e7-410b-8b35-d23d2cccf93e)
 
 *Above: Detected coins labeled using hardcoded classification logic.*
 
